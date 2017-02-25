@@ -25,4 +25,4 @@ Below are the normalised graiscaled sample images:
 Model correctly predicted 4 out of 5 images:
 
 
-![image-output3](./new_images2/prediction.gif)
+![image-output3](./new_images2/predictions.gif)
